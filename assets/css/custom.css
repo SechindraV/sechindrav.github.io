@@ -304,3 +304,54 @@ body.section-people   .content {
   }
 }
 
+/* Graduate Opportunities: table polish */
+.page-body table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0 0 1.25rem 0;
+}
+.page-body table th,
+.page-body table td {
+  border: 1px solid rgba(0,0,0,.08);
+  padding: .6rem .8rem;
+  vertical-align: top;
+}
+.page-body table thead th {
+  font-weight: 700;
+  background: rgba(0,0,0,.03);
+}
+.page-body table tbody tr:nth-child(even) td {
+  background: rgba(0,0,0,.02);
+}
+/* Responsive wrapper for wide tables */
+.table-wrap {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+/* Simple pill buttons row */
+.btn-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .6rem;
+  margin: .4rem 0 1.2rem 0;
+}
+.pill-btn {
+  display: inline-block;
+  padding: .55rem .9rem;
+  border-radius: 9999px;
+  text-decoration: none;
+  border: 1px solid rgba(0,0,0,.1);
+}
+.pill-btn:hover { box-shadow: 0 2px 8px rgba(0,0,0,.06); }
+
+/* Headings rhythm */
+.page-body h2 {
+  margin-top: 1.4rem;
+  margin-bottom: .6rem;
+}
+.page-body h3 {
+  margin-top: 1.1rem;
+  margin-bottom: .45rem;
+}
+.page-body ul { margin-top: .25rem; }

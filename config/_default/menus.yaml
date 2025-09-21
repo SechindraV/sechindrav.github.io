@@ -19,3 +19,6 @@ main:
   - name: People
     pageRef: people/
     weight: 30
+  - name: Graduate Student Opportunities
+    url: /graduate-opportunities/
+    weight: 50

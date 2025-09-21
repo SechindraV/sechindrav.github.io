@@ -1,7 +1,7 @@
 ---
 title: 
-summary: 
-date: 2025-09-21
+summary: Funded Ph.D. and Master's positions at UGA. 
+date: 
 type: page
 show_breadcrumb: true
 show_date: false
