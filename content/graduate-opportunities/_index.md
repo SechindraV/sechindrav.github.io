@@ -50,7 +50,7 @@ UGA’s Integrative Conservation Ph.D. Program (ICON) trains students to connect
 - Interest in environmental governance, adaptation, or sustainability  
 - Research or policy experience preferred but not required
 
-Applicants from historically underserved groups (e.g., Black, Indigenous, and People of Color, LGBTQ+, women, first-generation students) are strongly encouraged to apply.
+Applicants from **ALL** backgrounds are strongly encouraged to apply.
 
 </details>
 
